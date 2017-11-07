@@ -16,6 +16,7 @@ Syntax highlighted code block
 ### Header 3
 ###### TO JA!
 
+# Header 1 KOZIA ## Header 2 ### Header 3 ###### TO JA!
 
 # The largest heading
 ## The second largest heading
