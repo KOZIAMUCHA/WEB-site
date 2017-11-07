@@ -15,6 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
 - Bulleted
 - List
 
